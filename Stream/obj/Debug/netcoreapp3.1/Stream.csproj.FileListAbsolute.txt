@@ -1,0 +1,13 @@
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.exe
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.deps.json
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.json
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.dev.json
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\bin\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfo.cs
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Алина\Desktop\Учёба\Lessons\Stream\obj\Debug\netcoreapp3.1\Stream.genruntimeconfig.cache
